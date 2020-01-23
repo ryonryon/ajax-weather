@@ -1,0 +1,25 @@
+.weather {
+  width: 300px;
+  display: inline-block;
+  background-color: #dfd5b8;
+}
+
+.weather h1 {
+  margin: 0 16px 0 16px;
+  border-bottom: 1px solid blue;
+  font-weight: 500;
+}
+
+.weather h2 {
+  margin: 0;
+  font-weight: 100;
+}
+
+.weather p {
+  margin: 0 16px 24px;
+  float: right;
+}
+
+.hidden {
+  display: none;
+}
